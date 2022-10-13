@@ -24,7 +24,10 @@ yarn lint
 ps:可以写后端的同学可以自行修改http文件夹中的接口，不会的同学可以使用mock进行测试。
 
 
-## 接口字段：
+## 接口字段：除了/login是post方法其他的都是get方法
+
+### mock在线
+https://mock.presstime.cn/
 
 ### /login
 ```
